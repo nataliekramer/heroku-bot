@@ -1,4 +1,4 @@
- Dependencies
+Dependencies
 import tweepy
 import json
 import time
